@@ -1,0 +1,117 @@
+Cap?tulo 1
+Introduce al estudiante al fascinante mundo de la ingenier?a a trav?s del relato de los logros
+de ?sta a lo largo de la historia. Se inicia con un interesante caso que le muestra al estudiante
+aspectos de la vida de un ingeniero que muy bien podr?a ser la suya alg?n d?a. A continuaci?n
+se analiza la forma como la humanidad ha llegado hasta su estado actual, resaltando la enorme contribuci?n que la ingenier?a ha tenido en este progreso. No es una colecci?n de fechas,
+nombres ni logros, se busca la l?gica que hay detr?s de todo este avance (como complemento
+u?ase el anexo, al ?nal del libro, Resumen de los logros de la ingenier?a a lo largo de la historia.
+Al ?nal del cap?tulo se analizan las principales ramas de lasingenier?as, as? como los campos de
+especializaci?n que cada una de ellas ofrece. Se tratan con claridad las diferencias que hay entre ciencia, ingenier?a y tecnolog?a, el per?l del ingeniero, las habilidades b?sicas que todo ingeniero debe desarrollar y los diferentes campos de acci?n en que puede desarrollar su profesi?n
+una vez graduados. La parte ?ltima de este cap?tulo fue tomada del cap?tulo 2, pretendiendo
+que todo el tema de lo que es la ingenier?a quedara confinado a un solo cap?tulo. En este cap?tulo el profesor tiene la oportunidad de explorar aspectos locales relacionados con la ingenier?a,
+como obras importantes de la ingenier?a del pa?s, agremiaciones, asociaciones, revistas, etc.
+Cap?tulo 2
+Est? dedicado ?ntegramente al tema de la ?tica en ingenier?a. Para darle la importancia que
+se merece se trasladaron al cap?tulo 1otros temas que se encontraban en este cap?tulo en la
+primera edici?n y s?lo se dej? lo concerniente a la ?tica. Se agreg? el c?digo de ?tica de una
+prestigiosa instituci?n tecnol?gica brit?nica, as? como una metodolog?a para encarar problemas ?ticos en ingenier?a y algunos ejemplos adicionales a los ya abundantes en la primera
+edici?n.
+Cap?tulo 3
+El m?todo de dise?o en ingenier?a se analiza en este cap?tulo, mediante un caso en el que se
+aplican ordenadamente cada uno de sus pasos. Parte importante es el an?lisis que se hace
+al final del cap?tulo sobre las habilidades y actitudes necesarias para la correcta aplicaci?n
+de los diferentes pasos del m?todo. Se hace ?nfasis en lo relativo a las actitudes, por ser este
+un tema poco tratado en otros textos pero que est? adquiriendo enorme importancia en el
+mundo actual. No encontr? necesidad de introducir mayores cambios en este cap?tulo; los
+aspectos b?sicos del m?todo de dise?o en ingenier?a est?n bien presentados y cumplen con
+el alcance propuesto para el texto.
+Cap?tulo 4
+Es normal relacionar la ingenier?a con el dominio de las matem?ticas, una de las habilidades
+esenciales para el correcto manejo cuantitativo de los problemas que debe resolver un ingeniero. En este cap?tulo se introduce el tema de las mediciones, los errores y las cifras significativas que deben usarse en los c?lculos que realiza un ingeniero. Es importante que desde
+el inicio de su carrera el estudiante de ingenier?a sea consciente de la importancia que tiene
+representar una medici?n o el resultado de un c?lculo con el correcto n?mero de cifras. As?
+mismo, se le dan pautas para que pueda tomar decisiones racionales en situaciones en las que
+solamente posee informaci?n parcial sobre el problema que debe resolver. Este cap?tulo contiene un gran n?mero de ejemplos y ejercicios que ayudar?n a lograr los objetivos propuestos.
+Se introdujeron algunos cambios en el contenido del cap?tulo, actualizando algunos aspectos que deber?an ponerse al d?a. Pero el principal cambio se observa al final del mismo; se
+reh?zo la parte correspondiente al estudio y aplicaci?n de la estad?stica a la toma de decisiones,
+
+Cap?tulo 5
+Buscar y encontrar la informaci?n se ha convertido en una necesidad en un mundo en el que
+?sta crece de una forma exponencial. El cap?tulo 5 dota al estudiante de herramientas efectivas para encontrar la informaci?n que necesita, concentrando dicha b?squeda en internet
+por considerar que es el medio que primar? en el mundo del futuro. Por supuesto que en esta
+segunda edici?n ?ste ha sido uno de los cap?tulos que m?s actualizaciones ha experimientado. La red ha cambiado mucho y este era necesario reflejarlo en este cap?tulo 5 renovado.
+Hoy la red es casi sin?nimo de Google, aunque haya otros buscadores que a?n compiten con
+?l. De todas maneras las habilidades y metodolog?as para encontrar la informaci?n requerida
+no han variado sustancialmente.
+Cap?tulo 6
+Le proporciona al estudiante los elementos necesarios para que mejore sustancialmente sus
+habilidades comunicativas, tanto escritas como orales. Nuestros estudiantes no sobresalen,
+principalmente, por el dominio de esta habilidad, por lo que se hace necesario desarrollar
+estrategias con el ?n de mejorar la forma como escribe y expone, especialmente la primera.
+Cap?tulo 7
+Introduce al estudiante en un mundo relativamente nuevo para ?l: el manejo racional de los
+recursos necesarios para adelantar un proyecto. Dinero, tiempo, energ?a , impacto ambiental,
+riesgo, entre otros. Son temas de gran inter?s en el mundo de la ingenier?a. Nuestro estudiante debe ser consciente desde el primer momento de la importancia que tiene la adecuada
+combinaci?n de todos estos aspectos para lograr la mejorsoluci?n al problema en el que est?
+trabajando. En esta edici?n se ha puesto especial atenci?n en el tema del impacto ambiental
+que tienen los proyectos de ingenier?a. Se ha agregado un apartado dedicado al ciclo de vida
+de un producto analizando el impacto ambiental de cada uno de sus etapas, ayudando su
+comprensi?n con un detallado ejemplo. Tambi?n se ha ampliado el tratamiento del tema de
+la reducci?n del impacto ambiental a trav?s de la aplicaci?n sesuda de las denominadas ?5 R?.
+Cap?tulo 8
+Habilita al estudiante para que pueda identificar y definir correctamente los problemas que
+deber? resolver. Mediante el establecimiento de relaciones causa-efecto, el estudiante puede
+determinar cu?les son las principales causas que hay detr?s de un problema y plantear la
+correcta estrategia de resoluci?n. Para aquellos casos en que este enfoque no es suficiente, se
+le ofrece al estudiante el m?todo cient?fico como la forma alterna de resolver aquellas situaciones en las que lo importante no es el c?mo sino el porqu?. El cap?tulo posee abundantes
+ejemplos que le ayudan al estudiante a dominar los temas tratados. En esta edici?n se agregaron a este cap?tulo dos herramientas para estudiar las relaciones causa- efecto que eran
+parte del cap?tulo 9, por considerar que eran m?s ?tiles en este cap?tulo.
+Cap?tulo 9
+El ?xito del m?todo de dise?o radica en la habilidad del ingeniero para crear posibles soluciones a un determinado problema y entre ellas seleccionar la mejor. Y esa habilidad tiene
+un nombre propio: creatividad . En este cap?tulo se analiza la creatividad, su desarrollo, t?cnicas para mejorarla, herramientas para aplicarla, entre otros. Se trata el tema de la innovaci?n tecnol?gica, as? como de alguna metodolog?a para aplicarla. El cap?tulo es abundante en
+ejemplos que ponen de manifiesto la importancia que la creatividad ha tenido, y tendr?, en
+el desarrollo tecnol?gico
+Cap?tulo 10
+El estudiante aprende usar una herramienta para determinar cu?l es la mejor soluci?n a un
+problema dado. Debe determinar la viabilidad real de las soluciones planteadas en pasos
+anteriores del m?todo y seleccionar, de las que resulten viables, la mejor mediante la aplicaci?n de una herramienta cuantitativa. En esta edici?n se ampli? el tema de la matriz de
+viabilidad y el de la matriz de selecci?n a trav?s de ejemplos y ejercicios de un mayor nivel
+de complejidad.
+Recursos para el aprendizaje
+Para afianzar el aprendizaje de los contenidos fundamentales del curso, as? como las habilidades, en el libro se incluyen:
+? Numerosos ejemplos y ejercicios que sirven para aclarar los conceptos expuestos y para
+fijarlos mediante su aplicaci?n en casos concretos.
+? Talleres cortos y largos que aparecen al final de cada cap?tulo:
+Talleres cortos: se programaron para realizarse en clase, con un nivel de dificultad medio, que permite, adem?s de profundizar en los contenidos relacionados con el taller,
+desarrollar habilidades de grupo como la comunicaci?n oral, el trabajo colaborativo,
+entre otros.
+Talleres largos: se programaron para que los estudiantes los resuelvan en grupo, como
+actividad fuera del aula de clase. Son de una complejidad mayor y en su gran mayor?a
+requieren el uso del computador, tanto para buscar informaci?n como para efectuar
+c?lculos.
+? Ejercicios al final de cada cap?tulo: pueden usarse en combinaci?n con los talleres cortos,
+o simplemente como tareas complementarias de cada cap?tulo. No hay que olvidar que
+haciendo se aprende.
+? Casos de ingenier?a: casi todos los cap?tulos del libro contienen un caso de ingenier?a; algunos son adaptados de vida real, simplificados para que puedan ser usados en un curso
+introductorio de ingenier?a. Otros son simulaciones de situaciones de la ingenier?a. Se
+trat? de que los casosilustraran, a trav?s del relato, aspectos relevantes del trajinar de los
+ingenieros en diversas ramas de la ingenier?a. Se aconseja su lectura y discusi?n, as? como
+la soluci?n del ejercicio que se plantea al final de cada uno de los casos.
+? Uso frecuente de informaci?n obtenida de la web: no hay duda de que a la velocidad que
+todo ocurre en la red, en pocos a?os la misma se volver? el medio obligado para distribuir
+la informaci?n. Se seleccionaron cuidadosamente direcciones con contenido pertinente
+al tema, y cuya veracidad no est? en duda. Todos los cap?tulos contienen una secci?n
+con direcciones de internet en las que se puede ir m?s all? en el logro de los objetivos
+propuestos.
+? Con el prop?sito de facilitar el proceso de aprendizaje, est? disponible para profesores y
+estudiantes el micrositio de la obra con los siguientes recursos:
+Presentaciones de PowerPoint sobre el contenido del libro.
+Una animaci?n acerca de los logros de la ingenier?a a lo largo de la historia.
+Para ello dir?jase a www.pearsonenespanol.com/grech.
+Agradecimientos
+A todos los docentes de Latinoam?rica que han trabajado esta obra a lo largo de los a?os,
+as? como a quienes contribuyeron de alguna manera para que este proyecto llegara a un fin
+exitoso.
+Para finalizar, si tuviera que resumir el prop?sito del libro en una frase, ser?a ?sta: ?El objetivo de este
+libro es lograr que nuestro estudiante de ingenier?a empiece a pensar como ingenier
+
